@@ -1,0 +1,15 @@
+[avelin@PC ~]$ cat .config/alacritty/alacritty.toml
+[font]
+size = 9.0
+
+[colors]
+[colors.primary]
+foreground = "#ab8fcf"
+background = "#000000"
+
+[colors.normal]
+black = "#000000"
+
+[cursor]
+style = { shape = "Underline", blinking = "Off" }
+unfocused_hollow = false
