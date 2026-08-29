@@ -1,5 +1,5 @@
 set $mod Mod4
-bindsym $mod+q exec alacritty
+bindsym $mod+q exec kitty
 bindsym $mod+c kill
 bindsym $mod+d exec dmenu_run
 bindsym $mod+f fullscreen toggle
