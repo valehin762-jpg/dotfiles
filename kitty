@@ -1,0 +1,10 @@
+font_size 9.0
+
+foreground #ab8fcf
+background #000000
+
+color0 #000000
+
+cursor_shape underline
+cursor_blink_interval 0
+cursor_text_color #ab8fcf
