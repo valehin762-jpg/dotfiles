@@ -8,3 +8,4 @@ color0 #000000
 cursor_shape underline
 cursor_blink_interval 0
 cursor_text_color #ab8fcf
+enable_audio_bell no
