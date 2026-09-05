@@ -1,0 +1,30 @@
+[highlight.Normal]
+foreground = "terminal_default"
+background = "terminal_default"
+
+[highlight.FocusBorder]
+foreground = "#fff8a9"
+
+[highlight.SelectionBorder]
+foreground = "#6c8cd5"
+
+[highlight.ComposerPickerBorder]
+link = "FocusBorder"
+
+[highlight.Selection]
+foreground = "#6c8cd5"
+
+[highlight.HeaderTitle]
+foreground = "terminal_default"
+
+[highlight.ActiveField]
+foreground = "#6c8cd5"
+
+[highlight.ForumBorder]
+foreground = "dark_gray"
+
+[ui.border]
+default = "plain"
+
+[ui.indicator]
+selection = " "
