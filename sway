@@ -47,7 +47,7 @@ set $mod Mod4
     bindsym --locked XF86MonBrightnessUp exec brightnessctl set 5%+
     bindsym Print exec grim -g "$(slurp)" - | wl-copy
 
-    default_border pixel 1
+    default_border pixel 2
     smart_borders on
     client.focused #ab8fcf #ab8fcf #ab8fcf #ab8fcf #ab8fcf
     client.unfocused #000000 #000000 #000000 #000000 #000000
